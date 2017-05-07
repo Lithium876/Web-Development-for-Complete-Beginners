@@ -27,7 +27,7 @@ Introduction to Front End        ![Progress Bar](http://progressed.io/bar/0 "Pro
 10.	JavaScript: Objects          ![Progress Bar](http://progressed.io/bar/0 "Progress")
 
 11.	DOM Manipulation             ![Progress Bar](http://progressed.io/bar/0 "Progress")
-!
+
 12.	DOM Events                   ![Progress Bar](http://progressed.io/bar/0 "Progress")
 
 13.	Color Game Project           ![Progress Bar](http://progressed.io/bar/0 "Progress")
