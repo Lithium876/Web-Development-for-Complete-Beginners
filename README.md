@@ -1,5 +1,7 @@
 # Web Developer Series
 
+This web series is aimed at teaching web development to total beginners. At the end of this series you will be able to develop professional looking websites for clients and for your portfolio.  
+
 ### Syllabus
 
 Course Basics                    ![Progress Bar](http://progressed.io/bar/100 "Progress")
