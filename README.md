@@ -6,9 +6,9 @@ This web series is aimed at teaching web development to total beginners. At the 
 
 Course Basics                    ![Progress Bar](http://progressed.io/bar/100 "Progress")
 
-Introduction to Front End        ![Progress Bar](http://progressed.io/bar/0 "Progress")
+Introduction to Front End        ![Progress Bar](http://progressed.io/bar/100 "Progress")
 
-1.	Introduction to HTML          ![Progress Bar](http://progressed.io/bar/0 "Progress")
+1.	Introduction to HTML          ![Progress Bar](http://progressed.io/bar/33 "Progress")
 
 2.	Intermediate HTML             ![Progress Bar](http://progressed.io/bar/0 "Progress")
 
