@@ -1,4 +1,4 @@
-# Web Developer Series
+# Web Development for Complete Beginners
 
 This web series is aimed at teaching web development to total beginners. At the end of this series you will be able to develop professional looking websites for clients and for your portfolio.  
 
