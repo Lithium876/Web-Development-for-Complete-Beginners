@@ -8,7 +8,7 @@ Course Basics                    ![Progress Bar](http://progressed.io/bar/100 "P
 
 Introduction to Front End        ![Progress Bar](http://progressed.io/bar/100 "Progress")
 
-1.	Introduction to HTML          ![Progress Bar](http://progressed.io/bar/50 "Progress")
+1.	Introduction to HTML          ![Progress Bar](http://progressed.io/bar/87 "Progress")
 
 2.	Intermediate HTML             ![Progress Bar](http://progressed.io/bar/0 "Progress")
 
