@@ -1,6 +1,8 @@
 # Web Development for Complete Beginners
 
-This web series is aimed at teaching web development to total beginners. At the end of this series you will be able to develop professional looking websites for clients and for your portfolio.  
+This [web series](https://www.youtube.com/watch?v=EkuY6gZmzVk&index=1&t=368s&list=PLG7nB_qVUr-qp60lTKBfAf_LmY2ErTXtg) is aimed at teaching web development to total beginners. At the end of this series you will be able to develop professional looking websites for clients and for your portfolio. 
+
+[Watch This Series](https://www.youtube.com/watch?v=EkuY6gZmzVk&index=1&t=368s&list=PLG7nB_qVUr-qp60lTKBfAf_LmY2ErTXtg)
 
 ### Syllabus
 
