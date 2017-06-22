@@ -12,7 +12,7 @@ Introduction to Front End        ![Progress Bar](http://progressed.io/bar/100 "P
 
 1.	Introduction to HTML          ![Progress Bar](http://progressed.io/bar/100 "Progress")
 
-2.	Intermediate HTML             ![Progress Bar](http://progressed.io/bar/90 "Progress")
+2.	Intermediate HTML             ![Progress Bar](http://progressed.io/bar/100 "Progress")
 
 3.	Introduction to CSS           ![Progress Bar](http://progressed.io/bar/0 "Progress")
 
